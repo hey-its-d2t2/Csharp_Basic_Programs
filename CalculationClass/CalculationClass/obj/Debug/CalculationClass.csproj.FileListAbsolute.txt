@@ -1,0 +1,5 @@
+D:\AnandSir&GopeshSirNotes\4th_SEM\CSharp\CUIPrograms\CalculationClass\CalculationClass\obj\Debug\CalculationClass.csprojResolveAssemblyReference.cache
+D:\AnandSir&GopeshSirNotes\4th_SEM\CSharp\CUIPrograms\CalculationClass\CalculationClass\bin\Debug\CalculationClass.exe
+D:\AnandSir&GopeshSirNotes\4th_SEM\CSharp\CUIPrograms\CalculationClass\CalculationClass\bin\Debug\CalculationClass.pdb
+D:\AnandSir&GopeshSirNotes\4th_SEM\CSharp\CUIPrograms\CalculationClass\CalculationClass\obj\Debug\CalculationClass.exe
+D:\AnandSir&GopeshSirNotes\4th_SEM\CSharp\CUIPrograms\CalculationClass\CalculationClass\obj\Debug\CalculationClass.pdb
